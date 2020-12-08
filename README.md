@@ -2,7 +2,7 @@
 
 Lab 1 : Tic-tac toe
 
-Lab 2 :  8 Puzzle (heuristic), BFS, IDFS4
+Lab 2 :  8 Puzzle (heuristic), BFS, IDFS
 
 Lab 3 : Vacuum Cleaner
 
