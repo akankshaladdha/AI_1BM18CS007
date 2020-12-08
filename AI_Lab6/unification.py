@@ -82,6 +82,7 @@ def check_arg_pred():
             if(noArg[i] != noArg[i+1]):
 
                 print("No of arguments are not same")
+                print("Unification cannot progress")
                 argflag = 1
                 break
 
