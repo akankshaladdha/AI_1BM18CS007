@@ -11,3 +11,5 @@ Lab 4 : Knowledge Base - entailment
 Lab 5 : Knowledge Base - resolution
 
 Lab 6 : Unification
+
+Lab 7 : FOL to CNF conversion
