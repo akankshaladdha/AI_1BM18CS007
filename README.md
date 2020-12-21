@@ -14,4 +14,4 @@ Lab 6 : Unification
 
 Lab 7 : FOL to CNF conversion
 
-Lab 8 : Forward reasoning (prove query of FOL)
+Lab 8 : Forward reasoning (prove FOL query)
